@@ -1,6 +1,7 @@
 h1{
   font-size: 40px;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
   font-style:normal;
   text-align: center;
 }
@@ -22,8 +23,9 @@ li a {
   color:black;
   display: inline;
   text-align: center;
-  font-family: 'Playfair Display SC', serif;
-  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 20px;
 
 
 }
