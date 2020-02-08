@@ -1,0 +1,16 @@
+h1{
+  font-size: 40px;
+  font-family: 'Playfair Display', serif;
+  font-style:normal;
+  text-align: center;
+}
+
+.intro{
+  font-style:normal;
+  text-align: center;
+  font-family:'Poiret One', cursive;
+  font-weight: bold;
+  background-color:black;
+  text-decoration-color: red;
+  float: center;
+}
