@@ -5,12 +5,26 @@ h1{
   text-align: center;
 }
 
-.intro{
-  font-style:normal;
+ul
+{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+li{
+  display:inline;
+}
+
+li a {
+  padding-right: 10px;
+  color:black;
+  display: inline;
   text-align: center;
-  font-family:'Poiret One', cursive;
-  font-weight: bold;
-  background-color:black;
-  text-decoration-color: red;
-  float: center;
+  text-decoration: none;
+}
+
+li a:hover{
+  text-decoration:underline;
+  transition-duration: 1s;
 }
