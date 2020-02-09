@@ -4,6 +4,7 @@ h1{
   font-family: 'Julius Sans One', sans-serif;
   font-style:normal;
   text-align: center;
+  color: gold;
 }
 
 ul
@@ -11,11 +12,13 @@ ul
   list-style-type: none;
   margin:0;
   padding:0;
+  text-decoration:none;
 
 }
 
 li{
   display:inline;
+
 }
 
 li a {
@@ -26,25 +29,25 @@ li a {
   font-family: 'Montserrat', sans-serif;
   font-family: 'Julius Sans One', sans-serif;
   font-size: 20px;
+  text-decoration:none;
 
 
 }
 
 li a:hover{
-  text-decoration:underline;
-  transition-duration: 1s;
+  text-decoration:none;
+  transition-duration: 3s;
+  margin: 10px;
+  color:#ffffff;
+
 }
 
-.cirle{
-  border-color: #ffffff  #000000;
-  border-image: none;
-  border-radius: 50% 50% 50% 50%;
-  border-width: 4.3px;
-  margin-left:auto;
-  margin-right: auto;
-  height:200px;
-  width: 200px;
-  display:block;
-  border-style:solid;
-  overflow: hidden;
+
+
+.titles{
+  text-align:center;
+  font-size: 35px;
+  color: gold;
+  font-family: 'Sacramento', cursive;
+
 }
