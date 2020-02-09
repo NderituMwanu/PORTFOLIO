@@ -64,7 +64,36 @@ li a:hover{
 .project1{
   float:left;
   font-family: 'Montserrat', sans-serif;
-  margin: 20px;
+  margin: 40px;
   font-size: 18px;
+  text-align: left;
+}
 
+ol{
+  padding:5px;
+  text-align: left;
+}
+
+a:link, a:visited{
+  text-decoration: none;
+  font-size: 15px;
+  color:black;
+  padding:30px 60px;
+  display: inline-block;
+}
+a:hover{
+  background-color:gold;
+}
+
+.v1{
+  height:600px;
+  border-left: 6px solid gold;
+  left: 50%;
+  margin-left: -3px;
+  top:0;
+  position: absolute;
+  margin-left: 100;
+  align-items:center;
+  justify-content: center;
+  display: flex;
 }
