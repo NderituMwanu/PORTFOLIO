@@ -1,10 +1,9 @@
 .boxmodel{
   background-color: white;
-  width:1420px;
+  width:1415px;
   text-align: center;
   border:5px solid gold;
-  padding:50px
-  margin: 20px;
+
 }
 h1{
   font-size: 40px;
