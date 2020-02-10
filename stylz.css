@@ -84,16 +84,6 @@ a:link, a:visited{
 a:hover{
   background-color:gold;
 }
-
-.v1{
-  height:600px;
-  border-left: 6px solid gold;
-  left: 50%;
-  margin-left: -3px;
-  top:0;
-  position: absolute;
-  margin-left: 100;
-  align-items:center;
-  justify-content: center;
-  display: flex;
+#first{
+  width: 400px;
 }
