@@ -30,7 +30,7 @@ Type in <b>atom .</b> to open atom text editor or <b>code .</b> for Vs Code to r
 <HR>
 
 <b>LINK TO LIVE SITE</b>
-The link to the repository is :https://github.com/NderituMwanu/PORTFOLIO
+The link to the repository is :https://nderitumwanu.github.io/PORTFOLIO/
 <HR>
 <b>LICENSE</b><br>
 License: MIT MIT License Copyright (c) 2020 Nderitu Mwanu
